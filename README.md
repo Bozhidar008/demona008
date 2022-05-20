@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demona008
-- 👀 I’m interested in C#, ASP.Net Core, MVC, HTML&CSS, Razor Pages, JS
-- 🌱 I’m currently learning MVC, HTML&CSS
+- 👀 I’m interested in C#, ASP.Net Core, MVC,MSSQL, HTML&CSS, Razor Pages, JS
+- 🌱 I’m currently learning everything. Learning never ends!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bojidar008@gmail.com
 
