@@ -13,4 +13,9 @@ You can click the Preview link to take a look at your changes.
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demona008&layout=compact" />
 </div>
 
-
+| :octocat: Connect via: | :scroll: Certificates: | :scroll: Certificates: |
+| :-: | :-: | :-: |
+| :e-mail: **E-mail:**<br/>**bojidar008@gmail.com**| :heavy_check_mark: [**C# Programming Basics 2021**](https://softuni.bg/certificates/details/115986/2e390c02)<br/>:heavy_check_mark: [**Agile Software Development 2021**](https://softuni.bg/certificates/details/120388/325eb990)|:heavy_check_mark: [**Agile Fundamentals with Scrum - 2022**](https://softuni.bg/certificates/details/124094/1829f716)|
+| :blue_book: [**Facebook**](https://)| |
+| 💼 [**LinkedIn**](https://www.linkedin.com/in/bozhidar-marinov-902847111/)| <br/>:heavy_check_mark: [**Programming Fundamentals with C# - January 2022**](https://softuni.bg/certificates/details/130022/6272f713)| <br/>
+| ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvebili%2F&count_bg=%2379C83D&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23E7E7E7&title=Visitor+hits&edge_flat=false) | |
